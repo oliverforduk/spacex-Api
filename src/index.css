@@ -1,0 +1,17 @@
+//default
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  background: #2c2f33;
+  color: #FFF;
+}
+
+.app-body {
+
+}

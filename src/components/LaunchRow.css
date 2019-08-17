@@ -1,0 +1,47 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.launch-row {
+	padding: 1em;
+	text-align: center;
+}
+
+.launch-row .details {
+	width: max-content;
+	text-align: left;
+	margin: 0 auto;
+}
+
+.launch-row .title {
+	font-size: 2.5em;
+	font-weight: bold;
+	text-align: center;
+	color: #7289da;
+	padding-left: 0;
+}
+
+.launch-row p {
+	padding: 0.15em 0em;
+}
+
+.launch-row button {
+	background-color: #7289da;
+	color: #FFF;
+	border: none;
+	padding: 0.5em;
+	font-size: 1.5em;
+	transition: 0.3s ease-in-out;
+	display: block;
+	margin: 1em auto;
+}
+
+.launch-row button:hover {
+	background-color: #7d90d4;
+	cursor: pointer;
+}
+
+.launch-row .more-info {
+	margin: 0 2.5em;
+	text-align: left;
+}

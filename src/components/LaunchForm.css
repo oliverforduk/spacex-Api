@@ -1,0 +1,31 @@
+.launch-form {
+	padding: 2em 1em 1em 1em;
+	text-align: center;
+	color: #7289da;
+}
+
+.launch-form p {
+	font-size: 3em;
+	padding: 0.5em;
+}
+
+.launch-form input[type=number] {
+	font-size: 2em;
+	width: 2em;
+	background-color: #FFF;
+	border: none;
+}
+
+.launch-form button {
+	background-color: #7289da;
+	color: #FFF;
+	border: none;
+	padding: 0.15em 0.25em;
+	font-size: 2em;
+	transition: 0.3s ease-in-out;
+}
+
+.launch-form button:hover {
+	background-color: #7d90d4;
+	cursor: pointer;
+}
